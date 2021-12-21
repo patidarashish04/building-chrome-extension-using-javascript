@@ -1,0 +1,29 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-size: cover;
+    text-align: center;
+    color: rgb(7, 7, 7);
+    font-weight: bold;
+    box-sizing: border-box;
+    min-width: 400px;
+
+}
+input{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+    margin-bottom: 4px;
+}
+button{
+    background: #016f32;
+    font-weight: bold;
+} 
+#delete-btn {
+    background: rgb(7, 7, 7);
+    color: #f1b3b3;
+}
+#tab-btn {
+     background: rgb(73, 49, 49);
+     color: #8e8dcc;
+}
